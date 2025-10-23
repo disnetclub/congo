@@ -13,21 +13,21 @@ title = "Congo"
   # description = "My awesome website"
 
 [params.author]
-  # name = "Your name here"
+   name = "Your name here"
   # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
-  #   { link = "https://link-to-some-website.com/" },
-  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
-  #   { apple = "https://www.apple.com" },
-  #   { blogger = "https://username.blogspot.com/" },
-  #   { codepen = "https://codepen.io/username" },
-  #   { dev = "https://dev.to/username" },
-  #   { discord = "https://discord.gg/invitecode" },
-  #   { dribbble = "https://dribbble.com/username" },
-  #   { facebook = "https://facebook.com/username" },
+   headline = "I'm only human"
+   bio = "A little bit about you"
+   links = [
+     { email = "mailto:hello@your_domain.com" },
+     { link = "https://link-to-some-website.com/" },
+     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+     { apple = "https://www.apple.com" },
+     { blogger = "https://username.blogspot.com/" },
+     { codepen = "https://codepen.io/username" },
+     { dev = "https://dev.to/username" },
+     { discord = "https://discord.gg/invitecode" },
+     { dribbble = "https://dribbble.com/username" },
+     { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
   #   { github = "https://github.com/username" },
@@ -64,4 +64,4 @@ title = "Congo"
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-  # ]
+ ]

@@ -4,6 +4,7 @@
 
 baseURL = "https://lambov.xyz"
 defaultContentLanguage = "en"
+languageCode = "en"
 
 enableRobotsTXT = true
 summaryLength = 0
